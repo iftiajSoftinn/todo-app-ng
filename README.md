@@ -1,3 +1,9 @@
+# Screenshots
+![image](https://github.com/iftiajSoftinn/todo-app-ng/assets/121209626/eb567572-5e51-4e80-87e0-9bf3164ca8fa)
+
+![image](https://github.com/iftiajSoftinn/todo-app-ng/assets/121209626/8cd72af1-12dc-4589-8b1a-3d15522c1a96)
+
+
 # TodoAppNg
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
